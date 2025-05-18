@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nmax9916
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning ...
 - 😄 Pronouns: greetings from me
 
 <!---
